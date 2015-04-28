@@ -16,3 +16,7 @@ body {
 .theme-showcase .navbar .container {
   width: auto;
 }
+jumbotron {
+	background-image:img(starrynight.jpg);
+	color: white: important;
+}
